@@ -24,4 +24,4 @@
 
 
 
- void start_http_server(std::function<std::string(std::string)> func);
+ void start_https_server(std::function<std::string(std::string)> func);
